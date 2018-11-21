@@ -21,6 +21,8 @@ project, but don`t want to ruin your working code. Branches help to make kind of
 parallel variants of your code.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams shows that the history of commits can be non-linear and that commit 
+without a branch can be lost.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
