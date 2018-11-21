@@ -1,8 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 when I initialize a repository, a hidden file, that tracks any changes in current 
-repository is created. when we do this, whe can use all git comand in it, such as git log, git diff, git commit/
-
+repository is created. when we do this, whe can use all git comand in it, such as 
+git log, git diff, git commit.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
@@ -26,6 +26,8 @@ without a branch can be lost.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result of merging two branches together is a one branch that contains chages 
+of a code from both branches. We represent it in the diagram for better understanding.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
