@@ -31,3 +31,5 @@ of a code from both branches. We represent it in the diagram for better understa
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+It is more convinient to make merging automatically, but in case of conflict it is necessary 
+to do this manually to avoid chaos in code.
