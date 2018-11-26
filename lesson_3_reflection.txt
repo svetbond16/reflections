@@ -13,3 +13,8 @@ one instead of another?
     Forks are copies of GitHub repository on GitHub only.
     Clones are copies of a repository both on GitHub or on your local computer.
     Branches are different versions of your code on your local computer.
+
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+    When you have a copy of the last known state it is easier to continue to work 
+    even if you are offline.
