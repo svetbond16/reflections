@@ -24,3 +24,12 @@ what would be harder?
     Without Git I would probably collaborate using email, sending code, asking 
     about checking it and commenting it. I am sure it is much easier to 
     collaborate with Git and espesially with GitHub.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+    I would like to make changes in a separate branch rather than directly in
+    master when I neeed to collaborate with people, to find 
+    and fix the mistakes, to get a feedback on my changes, without changing my 
+    master. And only after doing all that I change master in a considered manner. 
+    Of course it takes more time than making changes directly in master, but it
+    worth it.
